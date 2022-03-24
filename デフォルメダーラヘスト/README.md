@@ -32,7 +32,8 @@ psd形式でのパーツの読み込みが必要な場合は、 `デフォルメ
 │   ├── dalahast.moc3
 │   ├── dalahast.model3.json
 │   ├── dalahast.physics3.json
-│   └── ico_dalahast.png: FaceRig用のアイコン
+│   ├── dalahast.vtube.json: VTube Studio用の設定
+│   └── ico_dalahast.png: アイコン
 ├── dalahast.tkc: FaceRig用のトラッキング設定
 ├── デフォルメダーラヘスト.cmo3: Live2d Cubism Editor 4.1の編集データ
 ├── デフォルメダーラヘスト.svg: Vectornatorから書き出したベクターデータ
