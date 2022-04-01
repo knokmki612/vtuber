@@ -15,6 +15,14 @@ Figmaでサムネの作成をしています。
 
 https://www.figma.com/file/VIMhBjEDZBAYL4OkUykoVH/vtuber?node-id=0%3A1
 
+## 配信時チェックシート
+
+誰か視聴者がきたら確認してもらうこと
+
+- [ ] 音が聞こえているか
+- [ ] BGMが重複して聞こえていないか
+- [ ] 音のバランスは大丈夫か
+
 ## 動画説明文テンプレ
 
 ```
