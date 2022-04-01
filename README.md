@@ -36,3 +36,7 @@ https://twitter.com/knokmki612
 ### フォント
 
 - フォントな 『にくまるフォント』 http://www.fontna.com/blog/1651/
+
+## ライセンス
+
+とくにライセンスを明示していない画像、テキストファイルについては[パブリックドメイン](https://creativecommons.org/publicdomain/zero/1.0/)で配布しています。
