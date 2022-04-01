@@ -2,13 +2,17 @@
 
 ## これは何
 
-Facerigでの使用を想定してLive2D Cubism Editor フリー版で作成したLive2Dアバターです。
+VTube StudioとFacerigでの使用を想定してLive2D Cubism Editor フリー版で作成したLive2Dアバターです。
 
 ## 名前の由来
 
 元々使用している[アバター画像](https://ja.gravatar.com/knokmki612)が家族から土産としてもらったダーラヘスト（木彫りの馬）で、それをデフォルメして立ち絵にしようと思いました。
 
 ## 使い方
+
+### VTube Studio
+
+アプリを起動後、ヒト型アイコンのボタンをクリックして「自分のモデルをインポート」を選択後、案内にしたがってください。
 
 ### FaceRig
 
