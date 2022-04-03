@@ -31,7 +31,7 @@ TODO: この動画の説明を書く
 Twitter:
 https://twitter.com/knokmki612
 
-使用音源：
+使用音源:
 いまたく 『のんびり時間』 https://dova-s.jp/bgm/play7052.html
 ```
 
