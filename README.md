@@ -40,6 +40,7 @@ https://twitter.com/knokmki612
 ### BGM
 
 - いまたく 『のんびり時間』 https://dova-s.jp/bgm/play7052.html
+- いまたく 『修復作業』 https://dova-s.jp/bgm/play16455.html
 
 ### フォント
 
