@@ -8,6 +8,8 @@ VTuber活動関係の素材置き場
     - Discordで話している様子を動画にする際に使うやつ
 - [Chat v2.0 Style Generator 日本語版](http://css4obs.starfree.jp/)
     - YouTubeのチャット欄をCSSでいじるやつ
+- [win-capture-audio](https://github.com/bozbez/win-capture-audio)
+    - 特定のアプリケーションの音のみ流す際に使うやつ
 
 ## Figma
 
