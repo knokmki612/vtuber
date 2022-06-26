@@ -10,6 +10,10 @@ VTuber活動関係の素材置き場
     - YouTubeのチャット欄をCSSでいじるやつ
 - [win-capture-audio](https://github.com/bozbez/win-capture-audio)
     - 特定のアプリケーションの音のみ流す際に使うやつ
+- [CollaV](https://www.collav.live/)
+    - 複数人で動く立ち絵を流す際に使うやつ
+- [VDO.Ninja](https://vdo.ninja/)
+    - p2pで映像の送受信をする際に使うやつ
 
 ## Figma
 
