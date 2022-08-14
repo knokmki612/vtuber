@@ -34,10 +34,11 @@ https://www.figma.com/file/VIMhBjEDZBAYL4OkUykoVH/vtuber?node-id=0%3A1
 ```
 TODO: この動画の説明を書く
 
-Twitter:
+Twitter
 https://twitter.com/knokmki612
 
-使用音源:
+使用音源
+いまたく 『ゴロリンちょ』 https://dova-s.jp/bgm/play16533.html
 いまたく 『のんびり時間』 https://dova-s.jp/bgm/play7052.html
 ```
 
@@ -45,6 +46,7 @@ https://twitter.com/knokmki612
 
 ### BGM
 
+- いまたく 『ゴロリンちょ』 https://dova-s.jp/bgm/play16533.html
 - いまたく 『のんびり時間』 https://dova-s.jp/bgm/play7052.html
 - いまたく 『修復作業』 https://dova-s.jp/bgm/play16455.html
 
