@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="564"
+   height="800"
+   viewBox="0 0 149.22478 211.66667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="チャット欄（縦）.svg"
+   inkscape:export-filename="C:\Users\kimiaki\OneDrive\画像\vtuber\チャット欄（縦）.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.45556828"
+     inkscape:cx="403.89116"
+     inkscape:cy="773.75888"
+     inkscape:window-width="1450"
+     inkscape:window-height="1081"
+     inkscape:window-x="124"
+     inkscape:window-y="112"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.92417;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect846"
+       width="125.94167"
+       height="185.20833"
+       x="11.90625"
+       y="13.22917"
+       ry="20.94422"
+       inkscape:export-filename="C:\Users\kimiaki\チャット.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       d="m 47.66288,198.4375 h -13.4894 c -11.6031,0 -20.94422,-9.34112 -20.94422,-20.94422 V 34.173389 c 0,-11.6031 9.34112,-20.94422 20.94422,-20.94422 h 81.4073 c 11.6031,0 20.94422,9.34112 20.94422,20.94422 V 177.49328 c 0,11.6031 -9.34112,20.94422 -20.94422,20.94422 H 104.5625"
+       id="path12913"
+       sodipodi:nodetypes="cssssssssc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="43.558235"
+       y="-33.685036"
+       id="text15611"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="43.558235"
+         y="-33.685036"
+         id="tspan22153" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.2889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.830696"
+       y="202.3279"
+       id="text25627"><tspan
+         sodipodi:role="line"
+         id="tspan25625"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'07NikumaruFont';-inkscape-font-specification:'07NikumaruFont';stroke-width:0.264583"
+         x="53.830696"
+         y="202.3279">チャット</tspan></text>
+  </g>
+</svg>
