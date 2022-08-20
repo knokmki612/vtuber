@@ -49,6 +49,12 @@ https://twitter.com/knokmki612
 - いまたく 『ゴロリンちょ』 https://dova-s.jp/bgm/play16533.html
 - いまたく 『のんびり時間』 https://dova-s.jp/bgm/play7052.html
 - いまたく 『修復作業』 https://dova-s.jp/bgm/play16455.html
+- いまたく 『ひとりじかん』 https://dova-s.jp/bgm/play15527.html
+- いまたく 『ほっとココア』 https://dova-s.jp/bgm/play15657.html
+- いまたく 『今週の運勢』 https://dova-s.jp/bgm/play14867.html
+- いまたく 『ちゃりさんぽ』 https://dova-s.jp/bgm/play14212.html
+- いまたく 『農村』 https://dova-s.jp/bgm/play9311.html
+- いまたく 『いつもほのぼの』 https://dova-s.jp/bgm/play14062.html
 
 ### フォント
 
